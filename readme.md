@@ -1,7 +1,11 @@
-## Laravel5 Login Sample
+## Laravel5 Sample
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
 [![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+
+## Description
+
+User login/logout and user registration options 
 
 ## Official Documentation
 
