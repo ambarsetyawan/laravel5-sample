@@ -5,7 +5,7 @@
 
 ## Description
 
-User login/logout, user registration and forgot password options
+User login/logout, user registration and forgot password options.
 
 ## Official Documentation
 
